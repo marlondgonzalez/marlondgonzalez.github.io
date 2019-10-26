@@ -2,5 +2,5 @@
 
 
 <p>A repository for my professional portfolio</p>
-<p>Hosted by Github Pages</p>
-<p>Code template from colorlib.com</p>
+<br>Hosted by Github Pages</br>
+<br>Code template from colorlib.com</br>
