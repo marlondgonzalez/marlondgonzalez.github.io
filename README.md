@@ -1,6 +1,6 @@
 # marlondgonzalez.github.io
 
 
-A repository for my professional portfolio 
+<p>A repository for my professional portfolio</p>
 Hosted by Github Pages
 Code template from colorlib.com
